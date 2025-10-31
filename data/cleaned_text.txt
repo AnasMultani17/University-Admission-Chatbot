@@ -1,0 +1,724 @@
+ Frequently Asked Questions Applicable for Admission to the Two-Year On-Campus MBA in Business Analytics Programme Academic Year 2022-23 Application Stage Query:  What is the eligibility criteria for admission to the MBA in Business Analytics programme?
+BTech/ BE/ BPharma/ BArch/ MCA/ MSc/ First Degree of BITS Pilani or equivalent*, with minimum 60% in aggregate or equivalent CGPA in the Qualifying Degree.
+Students who are in the final year of their Qualifying Degree programme are also eligible to apply, provided they can submit the original copies of the results till 1st October, 2022, and fulfil other criteria.
+The applicant should have taken mathematics / statistics as a subject in 12th standard with at least 60% marks in either of these subjects.
+*Equivalence of First Degree of BITS Pilani for consideration of 'Qualifying Degree' will be determined by an expert committee  I am in the final year of my qualifying degree.
+How should I calculate my aggregate percentage?
+You should calculate your aggregate percentage of marks based on the mark-sheets of all previous semesters / years related to the qualifying degree available with you at the time of applying.
+Once you finish your qualifying degree, you should have obtained minimum of 60% aggregate marks in for all the semesters / years combined.
+ Is the aggregate percentage for entire course considered for admission or is only the final year considered?
+Percentage for the entire course in the qualifying degree is considered for deciding the eligibility criteria.
+ My university mentions the percentage / CGPA for only the final year in the final mark-sheet.
+Should I still report the percentage / CGPA for entire course while applying for the MBA in Business Analytics programme?
+Yes, you should report the percentage / CGPA for the entire programme, which should be considered as your Qualifying Degree.
+ I have not yet completed my qualifying degree and till now my percentage / CGPA is below 60%.
+I expect my final aggregate percentage / CGPA to be more than 60%.
+Can I apply for the MBA in Business Analytics programme?
+Yes, you may apply for the MBA in Business Analytics programme.
+However, once you finish your qualifying degree, you should have obtained minimum of 60% aggregate marks in all the semesters / years combined.
+Otherwise, any offer of admission to the MBA in Business Analytics programme of the institute will stand cancelled whenever you are found to have scored below 60% aggregate marks in your qualifying degree.
+ My university calculates CGPA on a scale that is not 10-pointer (e.g.
+7 pointer or 9 pointer).
+Shall I report CGPA in that scale only?
+You should convert the CGPA to percentage.
+ How can I convert my CGPA to percentage?
+You need to follow the prescribed formula by your university / institute for the conversion (available through its website or mentioned in the mark-sheet or on any public domain notice).
+ What all documents I need to upload while filling the application form?
+You should have scanned copies of the following documents ready to properly complete the application: Document File type Size Your passport size photo Image 50 KB - 500 KB Scanned copy of your signature Image 20 KB - 200 KB Proof of date of birth (Standard X marksheet or certificate) PDF / Image 50 KB - 1 MB Qualifying Degree marksheet * (B.Tech.
+/ B.E.
+/ B.Pharm.
+/ B.Arch.
+/ MCA / M.Sc.
+/ First Degree of BITS Pilani or equivalent 4-years undergraduate program) PDF / Image 50 KB - 1 MB Qualifying Degree certificate (if available) PDF / Image 50 KB - 1 MB Standard XII marksheet PDF / Image 50 KB - 1 MB Standard X marksheet PDF / Image 50 KB - 1 MB Work experience certificate(s) / last salary slip(s) as a single file (for candidates with work experience) PDF / Image 100 KB - 5 MB GMAT Scorecard* (for candidates who have appeared for GMAT in 2020) PDF / Image 100 KB - 1 MB  Image file can be of either file extension .jpeg/.jpg/.png/ .bmp.
+ Casually taken photos or selfies are not acceptable.
+Please provide your photo in a single colour background only (white, red or blue).
+ What other things I would be asked to fill in the application for?
+Apart from the personal, educational and work experience details, you need to fill the answers to the following 3 questions as well while filling the application form:  Why do you want to pursue MBA in Business Analytics?
+(Max.
+300 words)  What do you expect to learn while pursuing MBA in Business Analytics?
+(Max.
+300 words)  What makes you a suitable candidate for an MBA in Business Analytics?
+(Max.
+300 words)  Can I transfer application fee through my bank to BITS account?
+If yes, please provide the bank account details.
+No.
+You need to choose from the list of acceptable modes of payment mentioned in the online application form.
+ Can I pay the application fee by cash?
+No, cash is not accepted.
+ How long will it take to get refund in case I have paid multiple times because of technical faults?
+BITS Pilani tries best to resolve such issues at the earliest.
+However, because of certain technical and operational issues the time may vary for different students.
+ Can I get refund of application fee if I am not shortlisted for the BAAT/Personal Interview process or if I am found to be ineligible for the MBA in Business Analytics programme?
+No, application fee is non-refundable (except for cases when one had paid multiple times because of technical glitches).
+ Is there any type of quota for admission to MBA in Business Analytics programme?
+BITS Pilani does not have any quota for its admission to the MBA in Business Analytics programme.
+ When can I get the confirmation of my payment of application fee?
+On successful completion of Payment, the status will be updated on the portal.
+ From where can I get to know the important deadlines for MBA in Business Analytics programme admission related activities?
+Please check the website for BITS Pilani Admission or the website of the Department of Management, BITS Pilani (Pilani Campus).
+ Do I need to provide any proof of work experience while applying?
+Yes, you should upload as a single file experience certificate(s) or joining letter along with last salary slip for each organization that you have served.
+ What is the Syllabus and pattern for Business Analytics Aptitude Test (BAAT)?
+The BAAT will comprise of a) Management Aptitude Section and b) Analytics Aptitude Section.
+The syllabus and pattern is as follows: a) Management Aptitude Section: This section will measure management aptitude in three areas– Quantitative Ability, Verbal Ability & Reading Comprehension and Data Interpretation & Logical Reasoning.
+The duration of this section of the test will be 2 hours and the questions will be multiple choice.
+Verbal Ability: Verbal Reasoning, Sentence completion, Grammar, Syllogisms, Jumbled paragraphs, Para Completion and inference, Contextual usage, Foreign language words used in English, Reading Comprehension, Analogies, Sentence correction, Verbal Logic, Different usage of same word, Idioms, Parajumbles, Antonyms.
+Data Interpretation and Logical Reasoning: Blood Relations, Series, Proposition, Direction Sense, Coding-Decoding, Assumptions, Puzzles, Clocks and Calendars, Statements, Data Arrangement, Family Tree, Binary Logic, Seating Arrangement, Sets & Caselets, Syllogism, Venn Diagram, Data Structures, Tables & Pie Charts, Data Sufficiency, Bars & Line Graphs.
+Quantitative Aptitude: Geometry, Trigonometry, Algebra, Mensuration, Partnership (Accounts), Profit & Loss, Ratios and Proportion, In-equations Quadratic and linear equations, Surds and Indices, Time-Speed-Distance, Number System, Geometric Progression, Inequalities, Work and Time, Percentages, Logarithms.
+b) Analytics Aptitude Section: The objective of the analytics aptitude test is to check candidate’s basic aptitude on computers and mathematics.
+The duration of the test may be of 1 hour and the questions will be of multiple choice from Matrices; Linear Algebra; Coordinate geometry in two dimensions, Basic Differential and Integral Calculus; Numerical Analysis; Probability and combination; Fundamental Programming Concepts; Basic Data Structures (arrays, lists, stacks, and queues); Boolean Algebra.
+ How can I rectify any error, which I made during the application process?
+If a candidate discovers any mistake in the form submitted by him / her, he / she can edit the application form during March 1st to 6th March 2022.
+BAAT and PI Stage Query:  What will be stages followed in the entire selection process?
+The process will follow the following steps: Step1: Candidates will apply for admission by filling the application form.
+Step2: Applicants' eligibility status will be verified through the application form.
+Step3: Applicants satisfying the eligibility criteria will be called for the Business Analytics Aptitude Test (BAAT), which comprises of Management Aptitude Section and Analytics Aptitude Section.
+Step4: Applicants will be shortlisted for Personal Interview (PI) based on their performance in BAAT.
+The institute will decide the cut-off marks for PI.
+Step5: After completion of further rounds following the BAAT, applicant’s performance in the Management Aptitude Section of BAAT will be compared with his / her over-all CAT/XAT/GMAT performance (if available).
+Best out of these two performances will be considered.
+Step6: Applicant’s score in Analytics Aptitude Section of BAAT will be added to this earlier mentioned score.
+Step7: Together the above two (Step5 and Step6) will provide the Composite Written Entrance Exam (CWEE) score.
+Step8: Final selection will be based on overall performance (weighted score) in the composite written entrance exam (CWEE), Personal Interview, along with prior work experience, and previous academic history.
+The metrics for awarding marks based on work experience and previous academic history are provided in the next question.
+ How does BITS Pilani evaluate a candidate before making offer for provisional admission?
+The offers for provisional admission will be made based on following evaluation parameters.
+Table 1: Selection Process: Points Criteria Weightage Points for Class X Marks 5 Points for Class XII Marks 5 Points for Qualifying Degree Marks 10 Work experience 5 Points for entrance exam performance 50 Personal interview 25 Total 100 Table 2: Point Calculation (Academic) Percentage Point Calculation for Class X as well as for XII (x in %)* x>90 5 80<x<=90 4 70<x<=80 3 60<x<=70 2 Table 3: Point Calculation (Academic) Percentage Qualifying Degree Marks (x in %)# x>95 10 90<x<=95 9 85<x<=90 8 80<x<=85 7 75<x<=80 6 70<x<=75 5 65<x<=70 4 60<x<=65 3 Table 4: Point Calculation (Work experience) Work experience (x in Months) Points x>48 1 36 <x<=48 3 24 <x<=36 5 12 <x<=24 3 0 <x<=12 1 x=0 0 Only formal work experience after graduation will be considered.
+Training /project work/ work done as an integral part of the curricular requirement will not be considered.
+A multiplying factor (1 or 2) based on the quality of experience may be used while awarding score for work experience.
+The institute reserves the right to change the evaluation components and / or the associated weightage at any time before making offer for provisional admission.
+ Can I change the centre for BAAT?
+The BAAT exam will be conducted at dedicated centers (locations).
+Preference for BAAT center will be given by the candidate in the application form.
+The Institute will allot the final center for BAAT considering all constraints at its discretion.
+ What will be the mode of conducting Personal Interview (PI)?
+The details for PI will be provided to candidates shortlisted for PI well in advance.
+Related to Any Other Query  What are the contact options for resolution of inquiry which are not stated above?
+Submit your query on the admission portal.
+Or Email: mba.admissions@pilani.bits-pilani.ac.in Phone: 01596-25- 5858, 5264, 5334 Indian Institute of Technology Bombay Frequently Asked Questions (FAQs) For Institute Scholarships For UG and M.Sc.
+programmes Note: These FAQs contain general information about institute scholarships.
+For updated/ latest information of specific scholarship round, office memorandum of that scholarship round, may kindly be referred.
+In case of any variance of information in the office memorandum from these FAQs, information in the office memorandum will be considered as final.
+Version: 3 Released on 15th July 2024 TABLE OF CONTENTS English version SECTION I: ABOUT SCHOLARSHIPS 3 SECTION II: ELIGIBILITY CRITERIA 6 SECTION III: SUPPORTING DOCUMENTS 7 SECTION IV: TECHNICAL/ PORTAL RELATED ISSUES 9 SECTION V: MISCELLANEOUS 10 SECTION I: ABOUT SCHOLARSHIPS I.1) What are different types of scholarships/ remission of fees offered to the Institute’s Undergraduate students?
+Ans.
+Following are the scholarships/ Remission of fees offered for Undergraduate students: i.
+Institute Merit-cum-Means Scholarship (MCM) ii.
+Facilities of Free Messing (for students from SC/ ST category) iii.
+Remission of fees iv.
+Women merit scholarship (for eligible women students) I.2) What are different types of scholarships/ Remission of fees offered to the Institute’s M.Sc.
+students?
+Ans.
+Following are the scholarships offered for M.Sc.
+students: i.
+Institute Merit-cum-Means Scholarship ii.
+Facilities of Free Messing (for students from SC/ ST category) I.3) Do I need to apply separately for both fee remission and MCM scholarship?
+Ans.
+No.
+The student should apply for scholarship through online portal.
+The most beneficial scholarship will be awarded to the student.
+[Provided all eligibility conditions are fulfilled].
+I.4) Will my application be rejected, if 25% of quota exceeded under MCM category?
+Ans.
+Application is not rejected.
+The most beneficial scholarship will be awarded to the student provided all eligibility conditions are fulfilled.
+An appropriate decision will be taken by the Scholarship committee.
+I.5) How will I get information about the application deadline & other dates pertaining to institute scholarships?
+Ans.
+Office memorandum for inviting scholarship application is issued and sent on student- notices through e-mail for every scholarship round.
+Please refer Scholarship calendar available on Academic office website of IIT Bombay.
+I.6) How many rounds are there for inviting scholarship applications in an academic year?
+Ans.
+Generally, scholarship applications are invited twice in an Academic year as detailed below: i.
+In Autumn Semester: for entire Academic year i.e.
+Autumn and Spring semesters.
+ii.
+In Spring Semester: for Spring semester only.
+I.7) If I get Remission of fees for entire academic year during Autumn semester round, can I apply for MCM in Spring semester round if my CPI improves?
+Ans.
+Yes.
+I.8) Can I receive MCM/ Remission of fees/ Free Messing, if I am already getting Named scholarship?
+Ans.
+No.
+As per the rules, a student cannot avail two scholarships at the same time.
+I.9) Can I avail any other scholarship, if I am already in receipt of Institute Scholarship?
+Ans.
+No.
+Students cannot avail any other scholarship, if in the receipt of Institute Scholarship.
+(Also refer I.23) I.10) Can I apply for Scholarship (MCM/ Remission of fee/ Free Messing/ Named) only once for the entire duration of programme?
+Ans.
+No.
+Student is required to apply for the scholarship in every Academic year.
+I.11) If I do not apply for Scholarships/ Remission of Fee in a year, is there any objection to apply for the same in the next year(s) as a new application?
+Ans.
+No, the student is eligible to apply for the scholarship in next Academic year.
+I.12) Will the refund of tuition fees/ hostel room rent for the students who are awarded MCM/ Remission of Fee/ Free Messing is paid directly to student’s bank accounts linked in the ASC portal?
+Ans.
+Yes.
+If the student had already paid the fees to the Institute.
+I.13) Can a student avail “Interest subvention under the Vidyalaxmi scheme” along with MCM/ Remission of fees?
+Ans.
+No.
+The student cannot avail the “Interest subvention under the Vidyalaxmi scheme” along with MCM/ Remission of fees.
+I.14) If the student is awarded MCM/ Remission of fees in autumn round, will the student be required to pay reduced amount of fees for spring semester?
+Ans.
+Yes, the reduced amount of fees will be reflected in the fee payment portal for the spring semester.
+I.15) How can I apply for Scholarships?
+Ans.
+The students are required to apply for the scholarship through the interface available at my.iitb.ac.in.
+The application process and details are provided in office memorandum, which also can be accessed when the student login to the application portal.
+I.16) I missed the deadline.
+Can I submit an offline application?
+Ans.
+No.
+There is no provision for offline application.
+I.17) Can I submit an offline application within the deadline?
+Ans.
+No.
+There is no provision for offline application.
+I.18) How do I know if my application is filed successfully?
+Ans.
+Once the application is submitted successfully, the student will receive an auto confirmation Email with the attachment of Scholarship form and income proof submitted.
+The student may download it as a PDF for future reference.
+I.19) I need a clarification regarding filing an application or documents to be submitted.
+What should I do?
+Ans.
+The details with regard to filling the application form are provided in Office Memorandum for the scholarship.
+I.20) I am in receipt of MCM/ Remission of fees/ Free Messing in autumn round.
+Do I need to apply for the Scholarship/ Remission of fees in spring round.
+Ans.
+If the student is awarded MCM/ Remission of fees/ Free Messing in Autumn round, then the student is not required to apply again for the same in spring round.
+I.21) I have been awarded institute scholarship.
+I also recently secured external scholarship I would however prefer to retain the Institute scholarship.
+What should I do?
+Ans.
+The student can retain only one scholarship at a time.
+The student should surrender the external scholarship and submit proof of surrender to the Academic section to retain the Institute scholarship.
+If student could not surrender external scholarship, student should surrender Institute Scholarship.
+I.22) My name is in the award list.
+But I am yet to receive scholarship money.
+What should I do?
+Ans.
+The student may write to Student Accounts Unit at sau@iitb.ac.in I.23) I have been awarded institute scholarship.
+I also recently secured external scholarship, which I would like to retain.
+What should I do?
+Ans.
+The student can retain only one scholarship at a time.
+The student should surrender the Institute scholarship and refund the amount of scholarship received and submit the proof thereof in the Academic Section in person or write to ugscholarships@iitb.ac.in.
+I.24) What is the procedure to surrender Institute scholarship?
+Ans.
+The student may contact Scholarship unit, Academic section in person or write to ugscholarships@iitb.ac.in.
+I.25) I have applied for the MCM/ Remission of fee/ Free Messing scholarship of our Institute.
+Can I apply other external scholarships?
+Ans.
+The student may apply for the external scholarships.
+However, he may retain only one scholarship out of external/Institute scholarship and surrender the other one.
+SECTION II: ELIGIBILITY CRITERIA II.1) What is the eligibility criteria for MCM scholarship?
+Ans.
+Kindly refer the following link: https://www.iitb.ac.in/newacadhome/MCM_UG.pdf II.2) What is the eligibility criteria for Remission of fees?
+Ans.
+Kindly refer the following link: https://www.iitb.ac.in/newacadhome/Remission_Fees_UG.pdf II.3) What is the eligibility criteria for Free Messing?
+Ans.
+Kindly refer the following link: https://www.iitb.ac.in/newacadhome/Free_Messing_UG.pdf II.4) Is FR/ DR/ DX/ W grade a bar for award of MCM/ Remission of fees/ Free messing scholarship?
+Ans.
+No.
+II.5) Which CPI is considered for award of scholarship for on roll students?
+Ans.
+For Autumn round of scholarship, CPI of previous Academic year is considered and for Spring round, CPI of Autumn semester of that Academic year is considered.
+E.g.
+for Autumn 2024-25, CPI of Academic year 2023-24 will be considered whereas for Spring 2024-25, CPI of Autumn 2024-25 will be considered.
+For new entrants, rank in the qualifying entrance exam would be the criterion in their first year.
+In subsequent semester/years, the academic performance of the preceding academic year/semester would be the criteria.
+SECTION III: SUPPORTING DOCUMENTS III.1) What are the income proof documents that are required to be submitted along with scholarship application?
+Ans.
+Scholarship application should be submitted along with copy of Income Certificate for the applicable Financial Year issued by a Competent Authority.
+Kindly refer the to the appendix of the Office Memorandum inviting scholarship application.
+From 2024 – Autumn semester onwards ITR acknowledgement/ IT Return will not be considered for Scholarship application.
+III.2) What is an Income Certificate?
+Ans.
+An Income Certificate is a document issued by the States/ Union Territories certifying a person’s annual income or a person’s family income from all sources.
+The Competent Authority for issuing Income certificate varies from state/ UT to state/ UT.
+III.3) Which year’s income certificate need to be submitted?
+Ans.
+Income proof against the notification in an academic year should be of preceding financial year.
+For example: If notification is issued in the Academic Year 2024-25, then the income proof should be for the Financial Year 2023-24 (1st April 2024 - 31st March 2025).
+III.4) What should be the date of issue and validity of the income certificate?
+Ans.
+Date of Issue: For an application filed in a particular academic year, the submitted income certificate should be the one issued on or after April 1 of the calendar year in which that academic year begins.
+For example, for a Office Memorandum issued in the Academic Year 2024-25, the income certificate should be issued on or after April 1, 2024.
+Validity: It should be valid at least till 31st March of the Academic Year in which the Office Memorandum is issued.
+For example, for an Office Memorandum issued in the Academic Year 2024-25, the income certificate should be valid at least till 31st March 2025.
+III.5) The income certificate that I currently have is issued before April 1st of the calendar year corresponding to start of the Academic year in which I am filing an application and the certificate is valid for the entire financial year.
+Can I use this for the application?
+Ans.
+No.
+For an application filed in a particular academic year, the submitted income certificate should be the one issued on or after April 1 of the calendar year in which that academic year begins.
+For example, for the Academic Year 2024-25, the income certificate should be issued on or after April 1, 2024.
+III.6) The Tehsildar issued the income certificate on 05/03/2023.
+The certificate states that it is valid for three years from the date of issuance.
+Can it be submitted with the application for the Academic Year 2024-25?
+Ans.
+No.
+For the Academic Year 2024-25, the income certificate should be issued on or after 1st April 2024.
+III.7) I am applying for scholarship for the Academic Year 2024-25 and my income certificate is valid till 14 January 2025.
+Will it be, ok?
+Ans.
+No.
+Income certificate should be valid until 31 March 2025.
+III.8) I am applying for scholarship for the Academic Year 2024-25 and my income certificate was issued in January 2024.
+Can I use this certificate for the Scholarship of Academic Year 2024-25?
+Ans.
+No.
+Income certificate should be issued on or after 1st April 2024, for the scholarship of Academic Year 2024-25.
+III.9) I am applying for scholarship for the Academic Year 2024-25 and my income certificate was issued in April 2024 with a validity of 6 months, i.e.
+up to October 2024.
+Will it be valid?
+Ans.
+No.
+Income certificate should be valid until 31 March 2025.
+III.10) If my both parents are expired, what documents should be produced to receive the Scholarships/ Remission of fees?
+Ans.
+Student is required to submit an affidavit and death certificates of both parents.
+[Pre-printed affidavit format can be obtained from the Academic Section either on email ugscholarships@iitb.ac.in or in person III.11) If one of my parents has expired, what documents should be produced to receive the Scholarships/ Remission of fees?
+Ans.
+The student is required to submit copy of the income certificate of one parent along with copy of the death certificate of the other parent.
+III.12) If my parents are divorced, what documents should be produced to receive the Scholarships/ Remission of fees?
+Ans.
+These are dealt with on a case-to-case basis by the Scholarship Committee.
+Please contact the academic office (ugscholarships@iitb.ac.in).
+III.13) What can be done if name of my parent on income certificate is different from name on the Academic office records?
+Ans.
+Parent name on income certificate should match with Academic office records.
+In case of discrepancy, student may contact Scholarship Unit, Academic Office for resolving the same before filing the scholarship application.
+III.14) Income Certificate issued by office of Tehsildar or office of issuing authority as mentioned in the list of Competent Authority but signed by someone else.
+Is it ok?
+Ans.
+No.
+The student should submit the Income Certificate duly signed and stamped by the Competent Authority of the respective State/ UT.
+III.15) I have an online link where all required documents are available for download.
+Can I provide this link instead of uploading the documents?
+Ans.
+No.
+All documents must be uploaded through online application portal only.
+SECTION IV: TECHNICAL/ PORTAL RELATED ISSUES IV.1) Do I need to update bank account details on ASC for Scholarship?
+Ans.
+Yes.
+Students are required to maintain updated bank account details on ASC portal.
+IV.2) What will happen to my application after submission?
+Ans.
+The academic section would process your application and decision of the Scholarship committee will be communicated to the students in due course of time.
+IV.3) Can I edit/ update my application or upload documents after submission?
+Ans.
+No.
+Students are not allowed to edit and update the scholarship form after final submission.
+IV.4) Whom to contact in case of any difficulty in accessing the scholarship portal for submitting my scholarship application?
+Ans.
+Students may write to asc.help@iitb.ac.in for technical issues with a copy to ugscholarships@iitb.ac.in .
+IV.5) I submitted the application on ASC portal successfully with relevant documents as specified in the office memorandum, how do I know whether I have been awarded the scholarship or not?
+Ans.
+The decision of the Scholarship committee with regard to award of scholarship/ re- submission of documents/ rejection of scholarship will be communicated to the students through Email.
+IV.6) I submitted the application on scholarship portal successfully but did not receive the PDF of my application.
+What should I do?
+Ans.
+For technical issues, student may write to asc.help@iitb.ac.in with a copy to ugscholarships@iitb.ac.in SECTION V: MISCELLANEOUS V.1) I do not meet the eligibility for any of the scholarships listed in the office memorandum.
+What are the other financial supports that I can apply for?
+Ans.
+Financial support other than the scholarships the student can avail are (The eligibility criteria may vary for each of the category): Financial support scheme Point of contact for details about the scheme Interest subvention under Vidyalaxmi scheme Academic section, ugscholarships@iitb.ac.in Student Benevolent fund Office of Dean(SA) Financial aid programme of IITBombay Alumni Association https://www.iitbombay.org/page/financial-aid-program V.4) I need a letter from IIT Bombay specifying the Competent Authority in my state/ city/ taluka for obtaining Income Certificate.
+What should I do?
+Ans.
+The office memorandum for scholarship application issued by the Academic office may be used for this purpose.
+No separate individual letter is issued.
+INDIAN INSTITUTE OF TECHNOLOGY DELHI ACADEMICS SECTION – UG FAQs Regarding Uploading of Online Documents & Forms on S-corner Ques 1.
+What to do if I don’t have a PAN card?
+Ans.
+1.
+Fill & upload the Undertaking form (https://owncloud.iitd.ac.in/nextcloud/index.php/s/prHgdQFYL7Wg3RA) in the field where the PAN card is sought.
+The date in the undertaking is for 31st August 2023 but ONLY in the case of PAN card, it’s acceptable to be submitted beyond that date.
+Ques 2.
+Is the PAN Card/ Aadhaar required for both parents?
+Ans 2.
+Preferably yes, but Aadhaar is mandatory.
+Ques 3.
+Which document is to be uploaded where ‘RECEIPT OF PAYMENT MADE’ is sought in FORM A?
+Ans.
+3.
+Upload the receipt of the fee paid to the Institute on the SBI I-Collect portal.
+Ques 4.
+Is receipt of payment to JEE at the time of seat acceptance to be uploaded?
+Ans 4.
+No separate receipt is to be uploaded.
+It’d be verified from the ‘Document verification-cum-seat allotment letter’.
+Ques 5.
+What to do when a Marksheet-cum-passing Certificate has been issued instead of separate documents in class Xth & XIIth?
+Ans 5.
+Upload the same document in both the fields marked for ‘passing certificate’ & ‘marksheet’ in class Xth & XIIth.
+Ques 6.
+Is FORM D to be uploaded if the family income is above 9 Lakhs?
+Ans 6.
+No, FORM C is sufficient.
+(No supporting documents required) Ques 7.
+Is FORM D to be uploaded if the family income is below 9 Lakhs?
+Ans 7.
+Yes, FORM C & FORM D need to be uploaded along with the supporting documents (ITR 2022-23/Income certificate/Form-16/BPL Card) [ANY ONE].
+This is required for all categories.
+Kindly ensure the Form D is signed by the parents.
+Ques 8.
+Which documents are to be uploaded if the family income is below 60 thousand?
+Ans 8.
+FORM C & FORM D need to be uploaded along with the supporting documents (BPL Card & Income certificate if available) Ques 9.
+Whether the ITR is to be uploaded for both parents?
+Ans.
+9.
+Yes.
+In cases where a parent/s is not earning the FORM has to be filled/uploaded accordingly.
+Ques 10.
+Who could be the witnesses in FORM F & FORM G?
+Ans 10.
+Any consenting adult could be a witness in FORM F.
+Ques 11.
+Who could be the nominees in FORM G?
+Ans 11.
+The parents/guardians of the student are the nominees.
+Ques 12.
+What to mention in FORM H2 if the student doesn’t have an SBI A/c?
+Ans 12.
+The field for SBI A/c no.
+may be left blank until the student opens an A/c in SBI.
+Ques 13.
+What is the students’ Programme & Department?
+Ans 13.
+Each Programme is offered by an Academic Unit which could be a Department, a Centre or a School.
+The Programme is the Degree you are enrolled in.
+Eg.
+– Programme: B.Tech.
+in Engineering and Computational Mechanics; Department: Applied Mechanics (refer to page no.
+2 of the Courses of Study 2023-24 in the link: https://home.iitd.ac.in/uploads/course-of-study/IITD-CoS-2022-23-for-Web.pdf Ques 14.
+How much fee is to be paid by the student?
+Ans 14.
+Refer to the UG Instruction Sheet -3 given in the link: https://owncloud.iitd.ac.in/nextcloud/index.php/s/3PQwdNRYm6pDfYZ Ques 15.
+What to do in case I don’t have the required documents to upload on Scorner?
+Ans 15.
+Fill & upload the Undertaking form -2023 given on the Institute website.
+https://owncloud.iitd.ac.in/nextcloud/index.php/s/prHgdQFYL7Wg3RA Ques 16.
+When would the hostel name be communicated to the student?
+Ans 16.
+An email would be sent to the student by the Dean of Student Affairs (011-26597106).
+Ques 17.
+Why does FORM A show ‘Pending verification’?
+Ans 17.
+The uploaded documents would be verified by the Academics Section of IIT Delhi during Registration/Verification until then it’d remain so.
+Ques 18.
+Is accommodation provided to the parents for the duration of Orientation & Registration?
+Ans 18.
+No accommodation is provided for the parents.
+Ques 19.
+What to fill in the field for ‘Previous Qualification Detail’ in FORM A?
+Ans 19.
+Fill in the details for your XIIth standard.
+Ques 20.
+What to do in case the Welcome email has not been received?
+Ans 20.
+Please note that the Welcome email has been sent to the students who had selected slide/freeze IITD by the 6th round.
+Kindly check the Spam/Junk folder of your email provided during JEE registration.
+Please ensure that you are checking the email ID provided during JEE registration.
+Contact arugs@iitd.ac.in if you haven’t received the email.
+Remember to attach your seat allotment document.
+Ques 21.
+I have not received the Entry No.
+in my Welcome email.
+Ans 21.
+The Entry No.
+is the Username mentioned in the Welcome email.
+Ques 22.
+I have submitted Form A with the wrong details/incorrect document, can I edit it?
+Ans 22.
+Form A once submitted, can’t be edited.
+You may re-upload the correct document when it gets rejected by the Academic Section during verification.
+You may visit the Academic Section after classes begin to update any information.
+Ques 23.
+What is the full form of BSFR?
+Ans 23.
+The full form is Benevolent Fund Scheme Rules (BFSR) Ques 24.
+I don’t have my 12th passing certificate.
+What should I do?
+Ques 24.
+You may submit the undertaking (https://owncloud.iitd.ac.in/nextcloud/index.php/s/prHgdQFYL7Wg3RA) at this point but produce the passing certificate by 31st August 2023.
+Ques 25.
+I do not wish to opt for a hostel.
+What should I do regarding Forms H1 & H2?
+Ans 25.
+You may mention in the form that no hostel is required and upload the same on the Scorner portal.
+Ques 26.
+In Form C there is space for JEE Rank.
+Am I required to fill the Category rank or All India Rank?
+Ans 26.
+Kindly mention both ranks.
+Ques 27.
+During payment of fees via SBI collect Portal, there is an option to choose for Hosteler "Yes or No".
+What should I choose?
+Ans 27.
+Kindly choose ‘yes’ if you wish to avail the hostel facility in IITD.
+Ques 28.
+In Form A, should I put in the marks of my best 5 subjects or all subjects?
+Ans 28.
+Put in the marks of all subjects cumulatively.
+Ques 29.
+Can I use the medical certificate format provided by JoSAA for the registration/verification?
+Ans 29.
+Yes, you are required to use the medical certificate provided by JoSAA for registration/verification.
+Ques 30.
+The Academic Fee is not showing on the Scorner portal.
+Ans 30.
+Kindly refer to the document in the link https://owncloud.iitd.ac.in/nextcloud/index.php/s/3PQwdNRYm6pDfYZ regarding steps to pay the Academic Fee.
+This is the only way of payment for the 2023 Entry UG Students.
+Ques 31.
+Would parents/guardians be given accommodation during Orientation/Registration?
+Ans 31.
+The parents/guardians would have to arrange for accommodation on their own.
+It is not provided by IIT Delhi.
+Ques 32.
+I’ve not yet received my Welcome email and the time frame is too short to upload all the documents.
+Can the deadline be extended?
+Ans 32.
+The deadline for submission of documents for online verification can’t be extended as 28th July 2023 is the date for Orientation in IIT Delhi.
+You are requested to keep the documents mentioned in the link https://owncloud.iitd.ac.in/nextcloud/index.php/s/bHMnQL3S9b69QFg ready and upload it when you receive the Welcome email.
+Please report for the Orientation/ Verification even if you are unable to upload any document.
+Ensure to submit the partial Form A and we’ll guide you regarding the next steps during registration/Verification.
+----------------------------------------ALL THE BEST------------------------------------------- Page 1 of 4 BTech Admission-2025 FAQs (All India Category) Q.
+1.
+I am interested in joining B.
+Tech.
+Programme at Institute of Technology, Nirma University.
+When can I apply?
+Candidates can apply online.
+Website URL: (https://technology.nirmauni.ac.in/admission-aid/under-graduate/b-tech/)  The online application starts from 20/02/2025.
+ The last date of online application is Refer Website.
+Q.
+2.
+How much is the application form fee?
+The application form fee is as under:  ₹350/- [non-refundable]) for the students appearing the qualifying examination from the state of Gujarat including Diu, Daman and Dadra Nagar Haveli (UT).
+ ₹1200/- [non-refundable]) for the students appearing the qualifying examination from the out-side the state of Gujarat including Diu, Daman and Dadra Nagar Haveli (UT).
+ The application form fee is required to be paid online through Credit Card/Debit Card/Net Banking/UPI.
+Your application will be treated as complete only after the successful payment of an application fee and allotment of registration number.
+Q.
+3.
+What are the eligibility criteria for admission to B.
+Tech.
+Programme in Institute of Technology, Nirma University?
+What subjects I must have opted in Std.
+XII (Science Stream)?
+Candidate must have passed 12th Science Examination with Physics and Mathematics as compulsory subjects’ along-with (Chemistry or biology or computer or vocational subject) from single board with the minimum percentage of marks as to be decided by the Government of Gujarat under the rules of admission.
+Candidate must have appeared in Paper-I of JEE (Main)-2025 Entrance Examination.
+Q.
+4.
+Whether marks for the std.
+XII (10 + 2) examination will be considered for the admission to B.
+Tech.
+Programme?
+The seats shall be filled-in by the candidates who have passed 12th Science Examination with above mentioned subjects from the schools located in India (including Gujarat State).
+The criteria for admission are solely on All India Rank of Paper – I of JEE (Main)-2025 Entrance Examination.
+Page 2 of 4 BTech Admission-2025 FAQs (All India Category) Q.
+5.
+Which examination is qualifying examination for the admission to B.
+Tech.
+Programme in Institute of Technology, Nirma University?
+Qualifying examination for the admission to B.
+Tech.
+Programme in Institute of Technology, Nirma University is std.
+XII (10+2) Science Stream with the percentage of marks as to be decided by the Government of Gujarat under the rules of admission and Paper-I of JEE (Main)-2025 Entrance Examination.
+Q.
+6.
+I have passed my std.
+XII (10 + 2) examination with Physics, Chemistry and Mathematics (science stream) subjects in 2025 from a state board other than Gujarat State Higher Secondary Education Board?
+May I apply for B.Tech.
+Programme at Institute of Technology, Nirma University?
+Yes, you may apply for B.
+Tech.
+Programme at Institute of Technology, Nirma University.
+Q.
+7.
+I passed std.
+XII (10 + 2) examination with Physics, Chemistry and Mathematics subjects in 2023 (or earlier) from a state/central board?
+May I apply for B.
+Tech.
+Programme 2025 at Institute of Technology, Nirma University?
+Yes, you may apply.
+However, you must have appeared in Paper-I of JEE (Main)–2025 entrance examination and must have All India Rank (CRL), when NTA declares AIR of Paper – I JEE (Main) – 2025.
+Q.
+8.
+Whether JEE (Main)-2025 All India Rank (CRL) is required at the time of application submission?
+Yes, JEE (Main)-2025 All India Rank (CRL) is required at the time of submission of the application.
+Also, make sure that you have entered correct JEE (Main)-2025 Application Number, Roll Number and Date of Birth as per the Admit Card of JEE (Main)-2025.
+Q.
+9.
+Is there any quota for NRI/NRI sponsored candidates for admission to B.Tech.
+Programme at Institute of Technology, Nirma University?
+Yes, 15 % of total seats are available for admission to NRI/NRI sponsored candidates.
+Details are available on website URL https://technology.nirmauni.ac.in/admission- aid/under-graduate/b-tech/ Q.
+10.
+Is there any quota for OCI/PIO/CIWGC/FN for admission to B.
+Tech.
+programme at Institute of Technology, Nirma University?
+Yes, 15% supernumerary seats are available for admission for OCI/PIO (Overseas Citizen of India/Persons of Indian Origin) and foreign students.
+Out of this about one-third i.e.
+5% seats are reserved for Children of Indian Workers working in Gulf countries (CIWGC) and South East Asia.
+Kindly contact the International Relation office for the further details.
+Page 3 of 4 BTech Admission-2025 FAQs (All India Category) Q.
+11.
+If I am awarded Letter Grade/ Performance Indices/Graded Point Average instead of percentage marks / Percentile in standard 12th mark sheet, do I need to submit equivalent marks, separately?
+Yes, equivalent certificate from the school authorities is required on the day of counseling for admission.
+Q.
+12.
+How do I inform you about correction of marks for the subjects Physics (P), Chemistry (C), and Mathematics (M), if any, after re-assessment?
+The candidate has to inform admission office (preferably in person) about the correction in marks of above-mentioned subjects.
+Alternatively, you may send E-mail of the scanned copy of corrected mark sheet.
+Do not forget to mention your Registration No.
+in the e-mail.
+Q.
+13.
+I am a diploma holder.
+How can I get admission to B.
+Tech.
+programme at Institute of Technology, Nirma University?
+The lateral entry admissions (Diploma to Degree admissions) are governed by the Admission Committee for Professional Courses (ACPC), Govt.
+of Gujarat.
+You need to follow the instructions after the announcement from ACPC, in this regard.
+Q.
+14.
+I passed std.
+X with technical subjects.
+Will I get any benefit of the same for admission to B.
+Tech.
+programme at Institute of Technology, Nirma University?
+No.
+From year 2011 onwards, as per the ACPC, Gujarat State norms, no marks will be added for the technical subjects in Std.
+X.
+Q.
+15.
+How do I know about merit list?
+How will I be informed about the counseling session?
+A Provisional merit list with detailed programme of counseling will be displayed on the website URL (https://technology.nirmauni.ac.in/admission-aid/under-graduate/b-tech/).
+Counseling for admission will be carried out online.
+Details of the same will be made available on official website.
+After each round of counseling process, allotment information will be given to those candidates who have been allotted seats on registered email id and the mobile number using email and SMS, respectively.
+Candidate has to follow online process for viewing his / her allotment and choose appropriate option (A, B, C or D) related to admission.
+Q.
+16.
+After seat allotment, is it necessary to choose any one of the options (A, B, C or D) for admission/reshuffling?
+Yes.
+It is mandatory.
+If you do not select any option, by default it will take Option D after stipulated time duration and you will be out of the counseling process.
+Page 4 of 4 BTech Admission-2025 FAQs (All India Category) Q.
+17.
+Do I need to pay Tuition and other fees to confirm seat allotted to me?
+Yes.
+Candidate has to pay tuition and other fees online during the stipulated time notified, if the candidate opts for Option A or Option B of counseling process for the admission.
+Q.
+18.
+Is it mandatory to report in person after seat allotment?
+Yes, it is mandatory to report in person with all original documents for verification on the notified date at Institute of Technology, Nirma University.
+Q.
+19.
+Do I have to come personally at Institute of Technology, Nirma University for the cancellation of the admission?
+No, Candidate can cancel his/her admission online through cancellation module by login to their account.
+Candidate has to submit the original fees paid receipts, admission order etc., within one week from the cancellation date to the Institute through Post/Courier.
+Q.
+20.
+Do you have on-campus hostel facilities for the students of B.
+Tech.
+Programme?
+No.
+At present, Nirma University is not offering on-campus hostel facilities to students of B.
+Tech.
+programme.
+The campus hostel facilities are available for PG programme students only.
+However, Guidance for the accommodation is provided.
+Further, NERF offers a bus facility to all the students (on chargeable basis) which ply from every corner of Ahmedabad city and Gandhinagar.
+Q.
+21.
+For any further clarification regarding admissions, whom should we contact?
+For any further clarifications, kindly contact: Admission Officer UG Admission Committee-2025 First Floor, Institute of Design (ID), Nirma University Campus, Sarkhej – Gandhinagar Highway, Ahmedabad – 382481 Gujarat, India.
+Phone Number : 079-71652000 (Ext.
+No.-585) Admission Office (Direct) : 079-71652585 / 8448448565 Email : ugadmissions.it@nirmauni.ac.in Admission Office Timings : 11.00 am to 4.00 pm (Monday to Friday) 10.00 am to 2.00 pm (Odd Saturdays) Website URL: https://technology.nirmauni.ac.in/admission-aid/under-graduate/b-tech/ FREQUENTLY ASKED QUESTIONS What is the attendance requirement in NIT- Trichy?
+The ​minimum attendance​ requirement to sit for the semester examinations is​ 75%​ in every subject.
+Students whose attendance is ​between 75% and 50%​ in any given subject shall ​attend mandatory classes​ after the current session’s semester examinations to make up for the lack of attendance in that particular subject.
+What is the assessment pattern?
+The assessment pattern varies depending on the interests of the professor concerned.
+In general, there are​ two cyclic tests (CTs)​ followed by the​ end semester examinations.
+Assignments​ might also be counted as assessments.
+The weightage for the same will be decided by the concerned faculty.
+What is the system of evaluation in NIT- Trichy?
+NITT follows the ​Grade Point Average (GPA)​ system.
+Semester / Supplementary examinations are evaluated using ​relative grading​ only.
+Grade points are assigned as follows : ​S - 10; A - 9; B - 8; C - 7; D - 6; E - 5; F - 0 (FAIL); X - 0 (ABSENT IN FINAL ASSESSMENT); V-0 (PREVENTED FROM WRITING THE EXAM BECAUSE OF INSUFFICIENT ATTENDANCE).
+What is CGPA?
+CGPA (Cumulative Grade Point Average)​ is the ​ratio​ of the sum of product of number of credits of a course with the grade point scored in that course, taken for all the courses in the program, to the sum of the number of credits of all the courses in the program.
+What is meant by ‘credit’?
+Credits are points that every student has to complete to get their bachelor's degree.
+Each subject is allotted a certain number of credits and there is a maximum number of credits that a student can take in one semester.
+Students can choose how many subjects to take as electives in each semester but by the end of fourth/fifth year, the minimum number of credits per department should be met.
+Under what circumstances can a student opt for a compensation exam?
+If a student has ​missed​ any of the cyclic assessments for ​valid reasons​, he / she will be able to take up a compensation exam for the same.
+The student must notify the faculty in advance with ​valid proof ​to support his / her claims.
+Compensation exams will not be held for the end semester examinations.
+How will labs be taken during the online semester?
+Specialized software​ which caters to the lab requirements would be recommended/provided to the students by the professors.
+There would be demonstrations​ where the professor would show the students how to obtain a particular result for an experiment.
+The students would be then required to replicate those results on their own.
+How are the Final End of Semester Exams conducted Online?
+The End Semester exams are conducted through a ​specialised online portal ​that serves the students with the ​shuffled question paper sets​.
+How are the Online classes conducted?
+The ​Microsoft teams​ Application is used as the primary online teaching platform and the students shall be grouped based on their departments and their respective courses.
+The classes are recorded ​and saved to a folder that the students can access if he/she has network issues.
+How does inquiry about the subject doubts work?
+The students can clarify their doubts anytime during the online lecture by using the ​"raise your hand"​ ​option​ in the Microsoft Teams platform and then unmute themself and speak.
+How do holidays work and where do I seek information regarding holidays and exams?
+The holidays are scheduled based on the​ Institute Calendar​.
+The Institute Calendar contains all the details regarding holidays(summer vacation , winter vacation and Government holidays) and the exams starting from the cycle tests to End semester examinations.
+What is a course plan?
+A course plan tells the student about the ​topics that are to be covered in that particular course​.
+A course plan in general contains the ​syllabus​ of a particular course and the materials(books) suggested​ by the institute for that particular course.
+What is a Class Committee?
+The Class Committee serves as the bridge between the department faculty and the students.
+The Class Committee meeting is conducted twice every semester (one each, after every cycle test) where the Professors and students of respective departments participate and express their opinions on the lectures and the proficiency of the students.
+How will the study material be shared to the students?
+The portal which the professors use for conducting classes (i.e.) Microsoft Teams would be used to post study materials (ppts, pdfs etc), cyclic tests and assignments.
+What are the Roles of First Year Coordinator,Dean and HOD?
+First Year Coordinator: Dr.
+R.
+Karvembu WEBMAIL ID​:​ ​kar@nitt.edu Presides over all Academic Activities happening in the First Year.
+Dean Academics: Dr.
+S.
+Shanmugam WEBMAIL ID​: deanap@nitt.edu ❖Admission, Enrollment ❖Academic Schedule / Calendar, Assessments ❖Publication and distribution of the syllabi ❖Temporary Break of Study, Admission Cancellation ❖Scholarships, No Objection Certificate ❖Industrial Visits ❖Curriculum Development, Board of Studies ❖Feedback and follow-up ❖Academic Audit, Data Management ❖Co-ordination for the conduct of Convocation & Institute Day ❖Data for Convocation / Institute Day ❖Maintenance of Academic Records, Archiving of Academic Records ❖Information for RTI / MHRD queries, NAD ❖Any other duty assigned by the Institute etc Dean Student Welfare: Dr.
+N.
+Kumaresan WEBMAIL ID:​ deansw@nitt.edu ❖All Fests: Festember, Pragyan, NITTFEST & Other Cultural/Technical events ❖All Student Clubs (Approval, fund allocation & monitoring) ❖Sports, All sports centres, Swimming pool & Gym ❖Discipline (Institute) ❖Student Council (Election and mentoring) ❖Students Rules and Regulations ❖Student Aid fund, Student Insurance & Scholarships ❖Allocation of Department Association Fund What are the Services Provided by the Central Library?
+NIT Tiruchirappalli Central Library offers ​membership facilities​ to retired faculty members, staff, Alumni of the Institute, academic institutions, professionals, teaching fraternity, individuals working for corporates and Government Organizations.
+This membership involves only borrowing facility and reference to the print collection.
+Borrowing privileges do not include articles, data, reports, etc.
+from our electronic collection.
+Access to our library and memberships are governed by rules and regulations of NIT Tiruchirappalli Central Library, that are revised from time to time.
+What are Octagon Student Account, Webmail Account and MIS Account?
+Each and every student will be provided with an Octagon Student Account/ Institute Email Account and a MIS account by the CSG Department to have access to E-Resources and E-Learning affilated by the Institute.
+Octagon Student Account ​:To have access to Devices in the Institute Institute Email Account​ : Official Institute edu tagged Email Account provided by the Institute MIS Account ​:Student Management Information System account for tracking and storing students Academic Informations How does Revaluation, Supplementary Exam, Course Repetition work?
+Supplementary Exams Students who get the ​‘F’ or ‘X’ grade ​and ​satisfactory attendance​ in core courses are eligible for Supplementary Examination.
+The Supplementary Examination will be conducted by the course teacher who offered the course or a faculty member nominated by the HoD.
+For taking Supplementary Examinations, the students have to register for all the failed courses with a prescribed examination fee.
+The weightage for the supplementary examination shall be 100%.
+Absolute grading system with a passing minimum of 35% shall be followed.
+In case a student fails in the Supplementary Examination he/she has to reappear till the student passes the course.
+Re-Evaluation Students can review all his/her evaluated answer scripts of the assessments (excluding laboratory examinations, comprehensive examination, internship, industrial lecture and project work), and can get them re-totaled/revalued by the faculty member concerned.
+This may or may not change the grades.
+The teacher shall forward a revised grade, to the Dean (Academic) through the Head of the Department and the Chairperson, Performance Analysis Committee, if such a necessity arises.
+However, if there is any grievance in the evaluation of an assessment task, which is not settled by the Faculty in charge of the course/Head of the Department, the Dean (Academic) after verifying whether the grievance is genuine can recommend to the Chairperson of the Senate for appropriate remedial measures.
+The entire revaluation process has to be completed within 2 weeks after reopening of the institution for the next semester.
+Any request by the students after this period will not be considered.
+Redo A student who earns a V grade in a core course has to repeat it compulsorily when the course is offered subsequently.
+A student securing a V grade in an elective course may repeat it or may opt for another elective course to complete the requirements.
+What is the Student Council body and its role?
+The Student Council is the voice of the students and looks into all matters of interest to the students.
+It is a medium of communication between the students and the management of the college.
+The hierarchy of the association includes a ​President​ from final year, ​Vice-President ​from pre final year and a ​General Secretary​ from second year -who are elected by the students to represent them for a period of one year.
+They are responsible for coordinating the various cultural and social activities conducted in the college including NITTFest and Festember.
+What are the Roles and Responsibilities of a Class Representative?
+Each Section from a Department should ​elect a Class Representative​ for their Class, One Boy and One Girl (Preferably) Their duties include: ❖To Act as a Medium of Communication between Faculties and Students by maintaining an ​Official Class Whatsapp group ❖To Preside and Represent Students’ concerns in ​Class Committee Meetings ❖To Manage Academic Schedules based on Faculty’s and Student’s Flexibility What is the Procedure for Scholarship and Fee Reimbursement?
+If a student avails for Scholarship through various Government Scholarship programmes, they can get sanctioned by submitting the list of documents required to the Admin with the help of the Student council.
+The Institute will reimburse the previously paid amount after successfully verifying your documents.
