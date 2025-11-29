@@ -4,7 +4,11 @@
 The **University Admission Chatbot** is an intelligent conversational assistant designed to automate and simplify access to university-related information. Using advanced **Natural Language Processing (NLP)** and **Retrieval-Augmented Generation (RAG)** techniques, the chatbot provides instant, accurate, and human-like responses to student queries about **admissions, fees, scholarships, and courses**.
 
 ---
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge)](https://university-admission-chatbot-fronte.vercel.app/)
+## 🚀 Live Demo
+
+> 🔗 **Deployed Link:**  
+> [https://university-admission-chatbot-fronte.vercel.app/](https://university-admission-chatbot-fronte.vercel.app/)
+
 
 
 ## 👥 Team Members
@@ -98,4 +102,5 @@ The **Gujarat University Admission Chatbot** showcases the fusion of NLP, docume
 
 ## 📬 Contact
 For project inquiries or collaborations, contact the team via email or through the university’s innovation cell.
+
 
